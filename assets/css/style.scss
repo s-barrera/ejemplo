@@ -16,7 +16,7 @@
     background-image: url("{{ site.url }}/ejemplo/assets/img/banner11.svg");
     /*background-image: url("{{ site.url }}/ejemplo/assets/img/banner5.jpg");*/
     /*background-size: 1080px 385px;*/
-    background-size: auto;
+    background-size: 100% 300px;
 }
 
 .project-name {
